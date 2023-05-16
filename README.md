@@ -8,7 +8,7 @@ the `node_modules` have not been uploaded.
 
 ```
 
-  create-react-app todolist
+  npm install
 
 ```
 
